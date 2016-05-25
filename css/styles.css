@@ -1,0 +1,23 @@
+body {
+  background-color: ivory;
+  font-family: cursive;
+}
+
+.column {
+  float: left;
+  width: 20%;
+  height: 640px;
+  padding: 5px;
+  background: pink;
+  border: 3px solid purple;
+  margin: 2px;
+}
+
+.column p {
+  font-size: 20px;
+  font-family: sans-serif;
+}
+
+.column img {
+  width: 100%;
+}
